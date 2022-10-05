@@ -46,6 +46,6 @@ iii. Annual Income (k$)
 iv. Spending Score (1-100)
 v. Customer ID
 
-**Language Used
+**Language Used**
 
 Python Jupyter Notebook
